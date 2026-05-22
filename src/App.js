@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const GEMINI_API_KEY = "AIzaSyCQJSUhzy6TT0EuMTD9cNvckfSW85bbBfU";
+const GEMINI_API_KEY = "";
 
 function App() {
   const [tasks, setTasks] = useState(() => {
